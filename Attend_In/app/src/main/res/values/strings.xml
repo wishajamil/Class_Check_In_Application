@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Panther Check In</string>
+    <string-array name="classes">
+        <item>Select a class</item>
+        <item>CSC 1301 (1:15pm)</item>
+        <item>CSC 1301 (3:15pm)</item>
+        <item>CSC 1302 (2:30pm)</item>
+        <item>CSC 1302 (12:20pm)</item>
+        <item>CSC 2720 (5:20pm)</item>
+        <item>CSC 2720 (4:00pm)</item>
+        <item>CSC 2510 (10:10am)</item>
+        <item>CSC 2510 (8:10am)</item>
+        <item>CSC 4350 (7:30pm)</item>
+        <item>CSC 4350 (5:30pm)</item>
+    </string-array>
+</resources>

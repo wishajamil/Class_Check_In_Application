@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623871946420",
+    "project_id": "attend-in",
+    "storage_bucket": "attend-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623871946420:android:d953e5bc7260acf80471e1",
+        "android_client_info": {
+          "package_name": "com.example.attend_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623871946420-4vugaor0hp68a36pj6j4ri6k5f6om7oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoaA3eSuORvbWjkhBQlg-RQ9IRI2uscD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623871946420-4vugaor0hp68a36pj6j4ri6k5f6om7oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
